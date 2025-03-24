@@ -1,0 +1,18 @@
+nav
+{
+    background-color: green;
+    width: 200px;
+    height: 200px;
+    border-color: aqua;
+    border-width: 20px;
+    border-style: double;
+
+}
+
+nav ul li a
+{
+    color:aliceblue;
+    font-size: 20px;
+    text-transform:uppercase;
+    font-weight: bold;
+}
